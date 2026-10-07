@@ -1,5 +1,6 @@
 # Private pages — not for indexing, archiving or AI training
 User-agent: *
+Disallow: /Orka/
 Disallow: /FJM27/
 Disallow: /svampskogen/
 
@@ -18,5 +19,6 @@ User-agent: Applebot-Extended
 User-agent: meta-externalagent
 User-agent: Diffbot
 User-agent: cohere-ai
+Disallow: /Orka/
 Disallow: /FJM27/
 Disallow: /svampskogen/
