@@ -3,6 +3,7 @@ User-agent: *
 Disallow: /Orka/
 Disallow: /FJM27/
 Disallow: /svampskogen/
+Disallow: /Blankis/
 
 User-agent: GPTBot
 User-agent: ChatGPT-User
@@ -22,3 +23,4 @@ User-agent: cohere-ai
 Disallow: /Orka/
 Disallow: /FJM27/
 Disallow: /svampskogen/
+Disallow: /Blankis/
